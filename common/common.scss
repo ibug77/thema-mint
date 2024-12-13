@@ -13,8 +13,9 @@
 }
 
 .d-header {
-  height: 5em;
+  height: 3.5em;
   box-shadow: 1px; /*언더위키 헤더 아래 가는 선*/
+  background-color: #172051;
 }
 
 .d-header-mode .bootstrap-mode {
@@ -230,7 +231,7 @@ a {
   border-radius: var(--mint-border-radius);
   border: 1px solid var(--tertiary);
   color: var(--secondary);
-  svg {
+  svg {   // 본문 아래 추적 부분 아이콘
     color: var(--secondary);
     &:hover {
       color: var(--secondary);
@@ -246,7 +247,7 @@ a {
   border: 1px solid transparent;
   border-radius: 0;
   svg {
-    color: currentColor;
+    color: currentColor; //새주제 안의 옵션 톱니바뀌 아이콘 컬러
   }
   &:hover {
     color: var(--secondary);
