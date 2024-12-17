@@ -6,11 +6,11 @@
     "mint-light": {
       "primary": "454545",
       "secondary": "F6FBFC",
-      "tertiary": "4F8A7C",
+      "tertiary": "#3B436D",
       "header_background": "f9fcff",
-      "header_primary": "111111",
-      "selected": "e3efec",
-      "hover": "e3efec"
+      "header_primary": "eaeaea",
+      "selected": "f7f7f7",
+      "hover": "9da9b2"
     },
     "mint-dark": {
       "primary": "e0e0e0",
